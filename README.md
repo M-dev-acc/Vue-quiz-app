@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Vue-quiz-app
+A quiz app built with Vue.js that demonstrates the core concepts of the framework. The project makes use of components for modular design, reactivity to handle dynamic data updates, and simple animations to enhance user experience. It serves as a hands-on practice project for learning and applying Vue.js basics.
+>>>>>>> 7857b65ee86e2f29d89679748b1546eba3ca46aa
